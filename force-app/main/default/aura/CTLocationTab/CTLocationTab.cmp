@@ -40,7 +40,7 @@
                             </div>
                             <div class="row-item">
                                 <div class="row-item-label slds-text-title">
-                                    Status Updated On
+                                    Status Last Updated On
                                 </div>
                                 <div class="row-item-value">
                                     {!v.locationInfo.statusUpdateOn}
