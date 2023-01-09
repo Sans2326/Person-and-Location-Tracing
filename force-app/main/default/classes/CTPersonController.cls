@@ -1,8 +1,3 @@
-/**
- * CTPersonController
- * Main controller class for Person__c object
- * @author Manish
- */
 public with sharing class CTPersonController {
 
     /**
